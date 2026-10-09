@@ -46,7 +46,7 @@ Es un laboratorio enfocado en los fundamentos de la Programación Orientada a Ob
  
 1. Clonar el repositorio:
 ```bash
-   git clone https://github.com/dylan-pitti/Include---Formularios-HTML5.git
+   git clone https://github.com/dylan-pitti/Practicas-POO.git
 ```
 2. Colocarlo dentro del directorio de tu servidor local (www si se usa WAMP o LAMP).
 3. Iniciar Wamp o Lamp después conectarse al servidor local mediante hhtp://127.1.1.1
